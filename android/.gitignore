@@ -1,0 +1,64 @@
+gradle-wrapper.jar
+/.gradle
+/captures/
+/gradlew
+/gradlew.bat
+/local.properties
+GeneratedPluginRegistrant.java
+
+# Remember to never publicly share your keystore.
+# See https://flutter.dev/docs/deployment/android#reference-the-keystore-from-the-app
+key.properties
+**/*.keystore
+**/*.jks
+
+
+
+# Gradle files
+.gradle/
+build/
+*/build/
+
+# Local config (SDK path, etc.)
+local.properties
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Generated files
+captures/
+.externalNativeBuild/
+.cxx/
+
+# APK / AAB outputs
+*.apk
+*.aab
+
+# Log files
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Kotlin
+*.kotlin_module
+
+# NDK
+obj/
+
+# Firebase (if using)
+google-services.json
+
+# Keystore files (IMPORTANT: never push)
+*.jks
+*.keystore
+
+# Navigation editor temp
+.navigation/
+
+# Android Studio cache
+.gradle/
