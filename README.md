@@ -1,16 +1,24 @@
-# safe_share
+# SafeShare 📱
+### Secure & Privacy-Focused Content Sharing — Mobile App
 
-A new Flutter project.
+Flutter frontend for SafeShare platform.
+A consent-based social media app that prevents cyberbullying,
+unauthorized image posting, and identity theft.
 
-## Getting Started
+## Features
+- Consent-based image posting
+- OTP secure login
+- User, Parent, Expert & Admin modules
+- Connected to SafeShare Django backend
 
-This project is a starting point for a Flutter application.
+## Tech Stack
+- Flutter / Dart
+- Android Studio
+- REST API connection to Django backend
 
-A few resources to get you started if this is your first Flutter project:
+## Backend Repo
+https://github.com/supri22tech/safeshare-backend
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Project Info
+- BCA Final Year Project
+- University of Calicut (2023–2026)
